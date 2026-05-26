@@ -1,0 +1,13 @@
+yfinance
+aiohttp
+asyncpg
+nltk
+python-dotenv
+pandas
+numpy
+fastdtw
+scipy
+fastapi
+uvicorn
+redis
+aioredis
